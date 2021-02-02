@@ -24,7 +24,8 @@ lista[2]
 
 lista[-1]
 ##
-Um problema serio com listas!
+
+Um problema serio com listas! :x:
 
 a = [1,2,3]
 
@@ -37,7 +38,8 @@ for i in a:
     b.append(i*3)
 b
 ##
-Dicionarios
+
+Dicionarios :notebook_with_decorative_cover:
 
 - Não mutaveis.
 - Não ordenados.
@@ -53,7 +55,8 @@ dicionario["idade"]
 
 dicionario["nome"]
 ##
-ndarray - Numpy
+
+ndarray - Numpy :part_alternation_mark:
 
 - A biblioteca numpy cria uma nova estrutura de dados, tem uma grande capacidade de vetorização que possibilita que qualquer operação feita com estrutura ja feita elemento a elemento sem a necessidade de um laço para acessar esses elementos, tornando, assim, a operação mais eficiente.
 
