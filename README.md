@@ -100,7 +100,7 @@ c = np.array([2,3,4,5,6,7,8,9, np.nan , np.nan])
 print('\nA:' , A , '\nB:', B, '\nc:',c)
 
 A+c
-##
+
 somar = A + B
 subtrair = A - B
 multiplicar = A * B
